@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rr655
+HostName                       en-ec-ph314-22.ece.cornell.edu
+ProcessIdentifier              3756
+ProcessCreationTime_UTC        1539629312
+ProcessCreationTime_Readable   Mon Oct 15 14:48:32 2018 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/rr655/Cadence/labs/Lab_2_b/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Oct 15 15:07:58 2018 EDT

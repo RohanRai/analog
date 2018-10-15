@@ -1,0 +1,20 @@
+//Revision 4
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config lab1_sim_RR;
+design labs.lab1_sim_RR:schematic;
+liblist myLib;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice;
+stoplist spectre;
+
+
+cell labs.lab1_real_RR binding :analog_extracted;
+
+
+endconfig
